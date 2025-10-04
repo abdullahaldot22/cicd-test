@@ -6,6 +6,6 @@ echo "<br/>";
 echo "<br/>";
 echo "<br/>";
 
-phpversion();
+echo "8.3";
 
 ?>
